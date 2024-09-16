@@ -1,0 +1,6 @@
+subscription_id=262a3c1d-7fe3-4bfb-9f90-7a5b89109336
+resource_group_name=CoreInvest_2023-POC
+workspace_name=SSExperiments
+registry_name=azureml
+version=2
+model_name=Phi-3.5-mini-instruct
