@@ -1,0 +1,9 @@
+accelerate
+sentence-transformers
+rouge-score
+evaluate
+google-cloud-aiplatform
+flask
+gunicorn
+torch
+transformers
