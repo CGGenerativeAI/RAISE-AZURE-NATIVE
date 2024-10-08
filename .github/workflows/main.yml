@@ -1,1 +1,0 @@
-!az ml job create --file pipeline.yml --resource-group "coreinvest_2023-poc" --workspace-name "SSExperiments"
