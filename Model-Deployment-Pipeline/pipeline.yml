@@ -1,5 +1,5 @@
 $schema: https://azuremlschemas.azureedge.net/latest/CommandJob.schema.json
-name: SS-deploy-phi-fin
+name: SS-deploy-phi-finv1
 description: Deploy the Phi-3.5-mini-instruct model using a Python script
 
 code: .  ## code to upload all files in the folder
@@ -13,4 +13,4 @@ environment:
 
 compute: azureml:ss-compute
 
-experiment_name: deploy_phi_model
+experiment_name: deploy_phi_modelv1
